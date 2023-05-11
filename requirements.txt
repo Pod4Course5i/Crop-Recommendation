@@ -6,4 +6,3 @@ pandas_profiling
 pandas
 matplotlib
 scikit_learn
-awscli
