@@ -20,7 +20,7 @@ RUN pip install --no-cache-dir -r /usr/src/app/requirements.txt
 
 COPY app.py /usr/src/app/
 COPY Crop_recommendation.csv /usr/src/app/
-COPY model.pickle /usr/src/app/
+COPY model.pkl /usr/src/app/
 
 # COPY templates/index.html /usr/src/app/templates/
 # tell the port number the container should expose
