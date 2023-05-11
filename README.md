@@ -17,3 +17,4 @@ This process completes the loop for retraining the model with new data.
 
 ### Architecture 
 
+![alt text](https://github.com/Pod4Course5i/Jenkins-ECR-ECS/blob/main/crop%20arch.png)
