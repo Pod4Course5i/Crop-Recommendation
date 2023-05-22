@@ -1,5 +1,12 @@
  **Crop-Recommendation**
+ 
+**Problem Statement**
+1)Crop recommendation is one of the most important aspects of precision agriculture.
+2)However, in agriculture, it is critical that the recommendations made are correct and precise, as errors can result in significant material and capital loss.
+3)Crop recommendations are based on a number of factors like - Nitrogen, Phosporus, Potassium, Temperature, Humidity, Rainfall etc.
+4) A machine learning model is built to recommend the crops.
 
+**Deployment**
 1) The code is locally developed on VS Code and the frontend was developed using Streamlit which were pushed to the github repository.
 2) Jenkins is used for the continuous integration and continuous developement.
 3) Jenkins, Docker and all the required dependencies were installed on EC2 machine.
